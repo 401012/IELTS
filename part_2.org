@@ -1,0 +1,82 @@
+#+TAGS: READING(r) PEOPLE(p) SPORTS(s) PLACES(n) TRAVEL(t) COMMUNICATION(c) OBJECT(o)
+* A book you enjoyed reading                                        :READING:
+
+** Describe a book that you enjoyed reading.
+You should say:
+what the book was
+what was in this book
+why you read it
+and explain what effect the book had on you.
+
+* A family member you like                                           :PEOPLE:
+
+** Describe a family member who you like to spend time with. 
+You should say:
+who it is (or, who they are)
+how often you spend time together 
+what you usually do together 
+and explain why you like to spend time with this person.
+
+* A successful person                                                :PEOPLE:
+
+** Describe a person you know who you think is successful. 
+You should say:
+who he or she is (or, who they are)
+what they did (or, what they do)
+how you know this person 
+and explain why you think he or she is (or, was) successful 
+
+* A sport you like                                                   :SPORTS:
+
+** Describe a sport you like to watch or play.
+You should say:
+what people wear in this sport
+what equipment is used in this sport
+how this sport is played 
+and explain why you like this sport.
+
+[[file:part_3.org::*Sports][Part 3: Sports]]
+
+* A Foreign Country You Would Like to Visit                   :PLACES:TRAVEL:
+
+** Describe a country you would like to visit for the first time.
+You should say:
+what country it is
+how long you would stay there
+what you would (like to) do there 
+and explain why you would like to visit this particular country.
+
+* A Letter or Email You Wrote                                 :COMMUNICATION:
+
+** Describe an important letter or email you wrote
+You should say:
+when you wrote it
+who you it wrote to
+what you wrote about
+and explain why it was important.
+
+* An electronic device                                               :OBJECT:
+
+** Describe a time when you had a problem with a piece of equipment
+You should say:
+what equipment 
+what problem you had
+when you had this problem 
+and explain what you did about this problem.
+
+** Describe a useful piece of equipment that you use at home or at work.
+You should say:
+what it is
+where it is (or, how long you have been using it)
+how you learned to use it
+and explain why this item is useful to you. 
+
+
+** Describe a piece of equipment, or a gadget that you bought recently. 
+You should say:
+what it was
+how you heard about it
+where you bought it
+and explain why you bought it.
+
+[[file:part_3.org::*Equipment][Part 3: Equipment]]
