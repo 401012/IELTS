@@ -1,4 +1,7 @@
 #+TAGS: READING(r) PEOPLE(p) SPORTS(s) PLACES(n) TRAVEL(t) COMMUNICATION(c) OBJECT(o)
+
+[[file:part_3.org][Link to part 3]]
+
 * A book you enjoyed reading                                        :READING:
 
 ** Describe a book that you enjoyed reading.
@@ -35,7 +38,7 @@ what equipment is used in this sport
 how this sport is played 
 and explain why you like this sport.
 
-[[file:part_3.org::*Sports][Part 3: Sports]]
+[[file:part_3.org::Sports][Link to part 3]]
 
 * A Foreign Country You Would Like to Visit                   :PLACES:TRAVEL:
 
