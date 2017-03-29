@@ -1,4 +1,4 @@
-#+TAGS: READING(r) PEOPLE(p) SPORTS(s) PLACES(n) TRAVEL(t) COMMUNICATION(c) OBJECT(o)
+#+TAGS: READING(r) PEOPLE(p) SPORTS(s) PLACES(n) TRAVEL(t) COMMUNICATION(c) OBJECT(o) MEDIA(m)
 
 [[file:part_3.org][Link to part 3]]
 
@@ -67,6 +67,7 @@ what problem you had
 when you had this problem 
 and explain what you did about this problem.
 
+
 ** Describe a useful piece of equipment that you use at home or at work.
 You should say:
 what it is
@@ -83,3 +84,13 @@ where you bought it
 and explain why you bought it.
 
 [[file:part_3.org::*Equipment][Part 3: Equipment]]
+* A Film or TV Program that Made You Laugh                            :MEDIA:
+
+** Describe a film or TV program that made you laugh.
+You should say:
+what film or TV program it was
+what the film or TV program was about
+who the actors were
+and explain why (or how) it made you laugh.
+
+
